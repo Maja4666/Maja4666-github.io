@@ -24,8 +24,9 @@ function App() {
       <div className="App">
         <h1>Pokedex</h1>
         <Routes>
+          <Route path='/' element={<PokemonList currentPage={currentPage} onPageChange={handlePageChange} loading={loading} />}/>
           <Route
-            path="/"
+            path="/Maja4666-github.io"
             element={<PokemonList currentPage={currentPage} onPageChange={handlePageChange} loading={loading} />}/>
           <Route path="/pokemon/:id" element={<PokemonDetailsPage />} />
         </Routes>
