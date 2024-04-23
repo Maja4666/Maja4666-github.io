@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Maja4666-github.io/static/css/main.6dfebaa3.css",
-    "main.js": "/Maja4666-github.io/static/js/main.d70ca8c8.js",
+    "main.js": "/Maja4666-github.io/static/js/main.89bda051.js",
     "static/js/453.baf231db.chunk.js": "/Maja4666-github.io/static/js/453.baf231db.chunk.js",
     "index.html": "/Maja4666-github.io/index.html",
     "main.6dfebaa3.css.map": "/Maja4666-github.io/static/css/main.6dfebaa3.css.map",
-    "main.d70ca8c8.js.map": "/Maja4666-github.io/static/js/main.d70ca8c8.js.map",
+    "main.89bda051.js.map": "/Maja4666-github.io/static/js/main.89bda051.js.map",
     "453.baf231db.chunk.js.map": "/Maja4666-github.io/static/js/453.baf231db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6dfebaa3.css",
-    "static/js/main.d70ca8c8.js"
+    "static/js/main.89bda051.js"
   ]
 }
